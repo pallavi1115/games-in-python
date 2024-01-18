@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 
 #rock, paper, scissors Game
 
@@ -47,16 +42,3 @@ while True:
     # Exiting the loop if the user does not want to play again
     if play_again.lower() != "y":
         break
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
